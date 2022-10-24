@@ -20,6 +20,7 @@ library(gitcreds)
 gitcreds_set()
 #connect specific prohect
 use_githup()
+teest of adding changes to file 
 ```
 
 
